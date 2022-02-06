@@ -1,0 +1,262 @@
+#heading {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bokor';
+    font-size: 64px;
+    margin-left: 10px;
+}
+
+#text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#home {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 850px;
+    margin-top: 15px;
+}
+
+#download {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#contact-us {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#blog {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#registration {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#heading-2 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: "Bokor";
+    font-size: 64px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+#username {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 150px;
+}
+
+#username-text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    background-color: #e4e4e4;
+    border: 1px solid #000;
+    margin-left: 120px;
+    margin-top: 150px;
+}
+
+#email {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 180px;
+}
+
+#email-text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    background-color: #e4e4e4;
+    border: 1px solid #000;
+    margin-left: 80px;
+    margin-top: 180px;
+}
+
+#password {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 210px;
+}
+
+#password-text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    background-color: #e4e4e4;
+    border: 1px solid #000;
+    margin-left: 110px;
+    margin-top: 210px;
+}
+
+#rpassword {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 240px;
+}
+
+#rpassword-text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    background-color: #e4e4e4;
+    border: 1px solid #000;
+    margin-left: 180px;
+    margin-top: 240px;
+}
+
+#text-2 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 270px;
+}
+
+#button {
+    position: absolute;
+    padding: 5px;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    background-color: #e4e4e4;
+    border: 1px solid #000;
+    margin-left: 10px;
+    margin-top: 300px;
+}
+
+#button:hover {
+    background-color: #fff;
+}
+
+#down-heading {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bokor';
+    font-size: 64px;
+    margin-left: 10px;
+    margin-top: 320px;
+}
+
+#down-heading-2 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 340px;
+}
+
+#youtube {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 380px;
+    margin-left: 10px;
+}
+
+#instagram {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 420px;
+    margin-left: 10px;
+}
+
+#twitter {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 460px;
+    margin-left: 10px;
+}
+
+#down-text {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: "Actor";
+    font-size: 22px;
+    margin-top: 500px;
+}
