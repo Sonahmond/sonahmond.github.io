@@ -18,53 +18,58 @@
 }
 
 #home {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     font-family: 'Actor';
     font-size: 22px;
     color: #000;
-    margin-top: 55px;
+    margin-left: 10px;
+    margin-top: 50px;
 }
 
 #download {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     font-family: 'Actor';
     font-size: 22px;
     color: #000;
-    margin-top: 100px;
+    margin-left: 80px;
+    margin-top: 33px;
 }
 
 #contact-us {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     font-family: 'Actor';
     font-size: 22px;
     color: #000;
-    margin-top: 150px;
+    margin-left: 190px;
+    margin-top: 15px;
 }
 
 #blog {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     font-family: 'Actor';
     font-size: 22px;
     color: #000;
-    margin-top: 200px;
+    margin-left: 10px;
+    margin-top: 30px;
 }
 
 #registration {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     font-family: 'Actor';
     font-size: 22px;
     color: #000;
-    margin-top: 250px;
+    margin-left: 60px;
+    margin-top: 12px;
 }
 
 #heading-2 {
