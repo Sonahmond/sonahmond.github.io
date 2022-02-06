@@ -1,2 +1,2 @@
 # Registration
-URL: ( https://sonahmond.github.io/Registartion/ ).
+URL: ( https://sonahmond.github.io/Registration/ ).
