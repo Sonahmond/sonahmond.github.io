@@ -1,3 +1,3 @@
 function reg() {
-    window.location.href = '#';
+    window.location.href = 'https://sonahmond.github.io';
 }
