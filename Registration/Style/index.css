@@ -72,6 +72,17 @@
     margin-top: 12px;
 }
 
+#login {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 140px;
+    margin-top: -6px;
+}
+
 #heading-2 {
     position: absolute;
     padding: 0;
