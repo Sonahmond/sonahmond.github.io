@@ -1,4 +1,1 @@
-function reg()
-{
-    window.location.href = 'https://sonahmond.github.io';
-}
+// Hello, welcome to our game company website. //
