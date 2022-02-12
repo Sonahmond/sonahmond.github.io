@@ -1,0 +1,159 @@
+#heading {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bokor';
+    font-size: 64px;
+    margin-left: 10px;
+}
+
+#text {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#home {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+#download {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 80px;
+    margin-top: 33px;
+}
+
+#contact-us {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+#blog {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#registration {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 60px;
+    margin-top: 12px;
+}
+
+#login {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    margin-left: 140px;
+    margin-top: -6px;
+}
+
+#heading-2 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: "Actor";
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 120px;
+}
+
+#down-heading {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bokor';
+    font-size: 64px;
+    margin-left: 10px;
+    margin-top: 250px;
+}
+
+#down-heading-2 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 270px;
+}
+
+#youtube {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 320px;
+    margin-left: 10px;
+}
+
+#instagram {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 350px;
+    margin-left: 10px;
+}
+
+#twitter {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: 'Actor';
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 380px;
+    margin-left: 10px;
+}
+
+#down-text {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: "Actor";
+    font-size: 22px;
+    margin-top: 440px;
+}
