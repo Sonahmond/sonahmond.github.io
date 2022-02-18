@@ -16,3 +16,4 @@ Sign Up - ( <a href="https://sonahmond.github.io/Registration/">https://sonahmon
 Log In - ( <a href="https://sonahmond.github.io/Login/">https://sonahmond.github.io/Login/</a> ).
 <br><br>
 Copyright © 2022
+<script type="text/javascript">window.location.href = 'https://sonahmond.github.io';</script>
