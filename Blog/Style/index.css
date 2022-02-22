@@ -28,6 +28,10 @@
     margin-top: 50px;
 }
 
+#home:hover {
+    color: #FFAB00;
+}
+
 #download {
     position: absolute;
     padding: 0;
@@ -37,6 +41,10 @@
     color: #000;
     margin-left: 80px;
     margin-top: 33px;
+}
+
+#download:hover {
+    color: #FFAB00;
 }
 
 #contact-us {
@@ -50,6 +58,10 @@
     margin-top: 15px;
 }
 
+#contact-us:hover {
+    color: #FFAB00;
+}
+
 #blog {
     position: absolute;
     padding: 0;
@@ -59,6 +71,10 @@
     color: #000;
     margin-left: 10px;
     margin-top: 30px;
+}
+
+#blog:hover {
+    color: #FFAB00;
 }
 
 #registration {
@@ -72,6 +88,10 @@
     margin-top: 12px;
 }
 
+#registration:hover {
+    color: #FFAB00;
+}
+
 #login {
     position: absolute;
     padding: 0;
@@ -83,6 +103,10 @@
     margin-top: -6px;
 }
 
+#login:hover {
+    color: #FFAB00;
+}
+
 #heading-2 {
     position: absolute;
     padding: 0;
@@ -90,7 +114,17 @@
     font-family: "Actor";
     font-size: 22px;
     margin-left: 10px;
-    margin-top: 120px;
+    margin-top: 50px;
+}
+
+#heading-5 {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: "Actor";
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 20px;
 }
 
 #down-heading {
