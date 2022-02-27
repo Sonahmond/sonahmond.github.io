@@ -1,7 +1,7 @@
 body {
     background-color: #DD00FF;
     animation-name: Damireesh;
-    animation-duration: 16s;
+    animation-duration: 26s;
     animation-iteration-count: infinite;
 }
 
@@ -10,7 +10,7 @@ body {
         background-color: #DD00FF;
     }
     25%{
-        background-color: #FF00B7;
+        background-color: #FF47B3;
     }
     50%{
         background-color: #00FFAB;
