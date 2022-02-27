@@ -1,3 +1,28 @@
+body {
+    background-color: #DD00FF;
+    animation-name: Damireesh;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes Damireesh {
+    0%{
+        background-color: #DD00FF;
+    }
+    25%{
+        background-color: #FF00B7;
+    }
+    50%{
+        background-color: #00FFAB;
+    }
+    75%{
+        background-color: #FF0080;
+    }
+    100%{
+        background-color: #DD00FF;
+    }
+}
+
 #heading {
     position: absolute;
     padding: 0;
