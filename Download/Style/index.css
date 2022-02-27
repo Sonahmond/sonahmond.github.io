@@ -1,3 +1,28 @@
+body {
+    background-color: #DD00FF;
+    animation-name: Damireesh;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes Damireesh {
+    0%{
+        background-color: #DD00FF;
+    }
+    25%{
+        background-color: #FF00B7;
+    }
+    50%{
+        background-color: #00FFAB;
+    }
+    75%{
+        background-color: #FF0080;
+    }
+    100%{
+        background-color: #DD00FF;
+    }
+}
+
 #heading {
     position: absolute;
     padding: 0;
@@ -28,10 +53,6 @@
     margin-top: 50px;
 }
 
-#home:hover {
-    color: #FFAB00;
-}
-
 #download {
     position: absolute;
     padding: 0;
@@ -41,10 +62,6 @@
     color: #000;
     margin-left: 80px;
     margin-top: 33px;
-}
-
-#download:hover {
-    color: #FFAB00;
 }
 
 #contact-us {
@@ -58,10 +75,6 @@
     margin-top: 15px;
 }
 
-#contact-us:hover {
-    color: #FFAB00;
-}
-
 #blog {
     position: absolute;
     padding: 0;
@@ -71,10 +84,6 @@
     color: #000;
     margin-left: 10px;
     margin-top: 30px;
-}
-
-#blog:hover {
-    color: #FFAB00;
 }
 
 #registration {
@@ -88,10 +97,6 @@
     margin-top: 12px;
 }
 
-#registration:hover {
-    color: #FFAB00;
-}
-
 #login {
     position: absolute;
     padding: 0;
@@ -101,10 +106,6 @@
     color: #000;
     margin-left: 140px;
     margin-top: -6px;
-}
-
-#login:hover {
-    color: #FFAB00;
 }
 
 #heading-2 {
@@ -124,7 +125,7 @@
     font-family: 'Bokor';
     font-size: 64px;
     margin-left: 10px;
-    margin-top: 250px;
+    margin-top: -15px;
 }
 
 #down-heading-2 {
@@ -134,7 +135,7 @@
     font-family: 'Actor';
     font-size: 30px;
     margin-left: 100px;
-    margin-top: 270px;
+    margin-top: 5px;
 }
 
 #youtube {
@@ -145,7 +146,7 @@
     font-size: 22px;
     color: #000;
     text-decoration: none;
-    margin-top: 320px;
+    margin-top: 50px;
     margin-left: 10px;
 }
 
@@ -157,7 +158,7 @@
     font-size: 22px;
     color: #000;
     text-decoration: none;
-    margin-top: 350px;
+    margin-top: 80px;
     margin-left: 10px;
 }
 
@@ -169,7 +170,7 @@
     font-size: 22px;
     color: #000;
     text-decoration: none;
-    margin-top: 380px;
+    margin-top: 110px;
     margin-left: 10px;
 }
 
@@ -179,5 +180,125 @@
     margin: 0;
     font-family: "Actor";
     font-size: 22px;
-    margin-top: 440px;
+    margin-top: 150px;
+}
+
+.inputText {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.submitForm {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    font-family: 'Actor';
+    background-color: #fff;
+    width: 100px;
+    height: 50px;
+    margin-left: 280px;
+    margin-top: 23px;
+}
+
+h1 {
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.heading-10 {
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.heading-11 {
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    margin-left: 150px;
+    margin-top: -47px;
+}
+
+.heading-12 {
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.heading-13 {
+    position: absolute;
+    font-size: 22px;
+    font-family: 'Actor';
+    color: #000;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.heading-13:hover {
+    color: #FFAB00;
+}
+
+.line-1 {
+    position: absolute;
+    width: 270px;
+    height: 1px;
+    background-color: #000;
+    margin-top: -100px;
+}
+
+.line-2 {
+    position: absolute;
+    width: 270px;
+    height: 1px;
+    background-color: #000;
+    margin-top: -10px;
+}
+
+.line-3 {
+    position: absolute;
+    width: 270px;
+    height: 1px;
+    background-color: #000;
+    margin-top: -55px;
+}
+
+.line-4 {
+    position: absolute;
+    width: 1px;
+    height: 90px;
+    background-color: #000;
+    margin-top: -100px;
+}
+
+.line-5 {
+    position: absolute;
+    width: 1px;
+    height: 90px;
+    background-color: #000;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+.line-6 {
+    position: absolute;
+    width: 1px;
+    height: 90px;
+    background-color: #000;
+    margin-top: -100px;
+    margin-left: 270px;
 }
